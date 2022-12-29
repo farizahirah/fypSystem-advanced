@@ -90,7 +90,7 @@
                                     </select>
                                 </div>
 
-                                <div class="form-group">
+                                <!-- <div class="form-group">
                                     <label>Status</label>
                                     <select name="status" class="form-select shadow-none col-12"  id="inlineFormCustomSelect" required>
                                         <option value="">Choose...</option>
@@ -99,7 +99,7 @@
                                         <option value="Extended">Extended</option>
                                         <option value="Completed">Completed</option>
                                     </select>
-                                </div>
+                                </div> -->
 
                                 <div class="form-group">
                                         <div class="col-sm-12">
